@@ -1,6 +1,6 @@
 {
   "name": "form-encode-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a deep object structure to be sent as urlencoded or form data (PHP style)",
   "main": "index.js",
   "files": [
