@@ -10,7 +10,8 @@
       "imports": "always-multiline",
       "exports": "always-multiline",
       "functions": "never"
-    }]
+    }],
+    "prefer-destructuring": 0
   },
   "parserOptions": {
     "sourceType": "script",

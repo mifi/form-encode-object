@@ -1,6 +1,8 @@
 'use strict';
 
-const { assert } = require('chai'); // eslint-disable-line import/no-extraneous-dependencies
+const chai = require('chai'); // eslint-disable-line import/no-extraneous-dependencies
+
+const assert = chai.assert;
 
 const formEncodeObject = require('../');
 
