@@ -2,9 +2,7 @@
 
 Convert a deep object structure to be sent as urlencoded or form data (PHP style).
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/a3DabSrJLUgh3DWQzN9s8KRM/mifi/form-encode-object'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/a3DabSrJLUgh3DWQzN9s8KRM/mifi/form-encode-object.svg' />
-</a>
+
 
 ## Install
 
