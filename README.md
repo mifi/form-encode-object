@@ -1,10 +1,10 @@
 # form-encode-object [![npm version](https://badge.fury.io/js/form-encode-object.svg)](https://badge.fury.io/js/form-encode-object) [![Build Status](https://travis-ci.org/mifi/form-encode-object.svg?branch=master)](https://travis-ci.org/mifi/form-encode-object) [![Known Vulnerabilities](https://snyk.io/test/github/mifi/form-encode-object/badge.svg)](https://snyk.io/test/github/mifi/form-encode-object)
 
+#
+
 Convert a deep object structure to be sent as urlencoded or form data (PHP style).
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/a3DabSrJLUgh3DWQzN9s8KRM/mifi/form-encode-object'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/a3DabSrJLUgh3DWQzN9s8KRM/mifi/form-encode-object.svg' />
-</a>
+See also https://github.com/sindresorhus/query-string which does something similar (but only outputs querystrings)
 
 ## Install
 
