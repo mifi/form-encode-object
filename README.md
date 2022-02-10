@@ -74,3 +74,4 @@ Now you have a formData object populated to send to the server
 
 - https://github.com/sindresorhus/query-string similar (but only outputs querystrings)
 - https://github.com/therealparmesh/object-to-formdata similar (but only outputs formdata)
+- https://github.com/DylanPiercey/q-flat
