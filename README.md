@@ -1,10 +1,6 @@
 # form-encode-object [![npm version](https://badge.fury.io/js/form-encode-object.svg)](https://badge.fury.io/js/form-encode-object) [![Build Status](https://travis-ci.org/mifi/form-encode-object.svg?branch=master)](https://travis-ci.org/mifi/form-encode-object) [![Known Vulnerabilities](https://snyk.io/test/github/mifi/form-encode-object/badge.svg)](https://snyk.io/test/github/mifi/form-encode-object)
 
-#
-
 Convert a deep object structure to be sent as urlencoded or form data (PHP style).
-
-See also https://github.com/sindresorhus/query-string which does something similar (but only outputs querystrings)
 
 ## Install
 
@@ -73,3 +69,8 @@ Object.keys(formEncoded)
   .forEach(key => formData.append(key, formEncoded[key]));
 ```
 Now you have a formData object populated to send to the server
+
+## See also
+
+- https://github.com/sindresorhus/query-string similar (but only outputs querystrings)
+- https://github.com/therealparmesh/object-to-formdata similar (but only outputs formdata)
